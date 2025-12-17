@@ -1,17 +1,9 @@
 ![image](https://github.com/user-attachments/assets/c745e980-fcdc-4c7d-ba72-a05c0c2b4ab1)
 
 --- 
-> ![img](https://nexocrew.com/_next/image?url=%2Fstatic%2Fimages%2Flogo.png&w=32&q=75) **- A Nexocrew Creation**
-
 
 Welcome to the official GitHub repository of the **Crystopia.net Minecraft Server**! Crystopia is a unique Minecraft server that offers players a variety of exciting game modes and a friendly community. Here on Crystopia, players can experience adventures together, build and compete against each other.
 
-## 🏆 Features
-
-- **Various game modes**: We are currently developing our first RPG survival mode and many mini-games.
-- **Custom plugins**: The server uses self-developed plugins that make the gaming experience even more unique.
-- **Many events**: We regularly hold exciting events where players can win rewards and recognition.
-- **Active community**: Our community is friendly and helpful. Whether you are a beginner or a professional, you will feel at home here.
 -
 ## 🌐 IP Address
 
