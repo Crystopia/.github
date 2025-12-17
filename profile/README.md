@@ -4,7 +4,6 @@
 
 Welcome to the official GitHub repository of the **Crystopia.net Minecraft Server**! Crystopia is a unique Minecraft server that offers players a variety of exciting game modes and a friendly community. Here on Crystopia, players can experience adventures together, build and compete against each other.
 
--
 ## 🌐 IP Address
 
 - **Server IP**: `play.crystopia.net`
