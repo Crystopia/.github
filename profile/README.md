@@ -11,8 +11,8 @@ Welcome to the official GitHub repository of the **Crystopia.net Minecraft Serve
 
 ## 💬 Contact
 
-- **Discord**: [Crystopia Discord](https://crystopia.link/discord)
-- **Website**: [www.crystopia.net](https://www.crystopia.net)
+- **Discord**: [Crystopia Discord](https://crystopia.net/discord)
+- **Website**: [www.crystopia.net](https://crystopia.net)
 - **Support**: If you have any questions or problems, you can always reach us via our Discord server or by email.
 
 ## 🚀 How to Join
